@@ -1,1 +1,1 @@
-# JavaScript-Ex-03
+# Logica-de-programacao-ex002
